@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Buzzy were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://dhumor.in
+Data file = /home/setupserver/applications/crazypiranha92592/public/wp-content/uploads/2020/01/demo-content-import-file_2020-01-17__21-32-32.xml
+Widget file = /home/setupserver/applications/crazypiranha92592/public/wp-content/uploads/2020/01/demo-widgets-import-file_2020-01-17__21-32-32.json
+Customizer file = /home/setupserver/applications/crazypiranha92592/public/wp-content/uploads/2020/01/demo-customizer-import-file_2020-01-17__21-32-32.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Default : 
+
+Boombox Trending Posts - Trending - Imported
+Text - Find us on Facebook - Imported
+Tag Cloud - Tags - Imported
+Boombox Sticky Sidebar - No Title - Imported
+Text - No Title - Imported
+Boombox Sidebar Footer - No Title - Imported
+
+Page 1 : 
+
+Text - Disclaimer - Imported
+
+Secondary : 
+
+Boombox Recent Posts - Hot News - Imported
+Boombox Picked Posts - Most Discussed - Imported
+Text - No Title - Imported
+Boombox Recent Posts - No Title - Imported
+Boombox Picked Posts - Most Shared - Imported
+Boombox Recent Posts - You may also like - Imported
+
+Footer Left : 
+
+Boombox Recent Posts - No Title - Imported
+
+Footer Middle : 
+
+Boombox Picked Posts - Most Wanted - Imported
+
+Footer Right : 
+
+Text - Disclaimer - Imported
+
+

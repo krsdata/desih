@@ -1,0 +1,18 @@
+
+---Downloaded files---
+The import files for: Boombox Original were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://dhumor.in
+Data file = /home/setupserver/applications/crazypiranha92592/public/wp-content/uploads/2020/01/demo-content-import-file_2020-01-17__21-21-16.xml
+Widget file = /home/setupserver/applications/crazypiranha92592/public/wp-content/uploads/2020/01/demo-widgets-import-file_2020-01-17__21-21-16.json
+Customizer file = /home/setupserver/applications/crazypiranha92592/public/wp-content/uploads/2020/01/demo-customizer-import-file_2020-01-17__21-21-16.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
